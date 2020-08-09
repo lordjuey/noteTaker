@@ -5,13 +5,13 @@ Week 10 homework
 
   ## Table of contents 
 
-  # [Programmer] (#programmer)
-  # [Project Description] (#project description)
-  # [License] (#license)
-  # [Installation - dependency] (#installation)
-  # [Tests] (#tests)
-  # [Repository Information] (#repository information)
-  # [Contributors] (#contributors)
+  # [Programmer] 
+  # [Project Description] 
+  # [License] 
+  # [Installation - dependency]
+  # [Tests]
+  # [Repository Information]
+  # [Contributors] 
 
 
   ## programmer
