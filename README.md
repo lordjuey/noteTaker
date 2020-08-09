@@ -21,8 +21,7 @@ Week 10 homework
   ## Project Description
   This is an app that you can create notes and save it on to the database
   
-  ![Uploading Screen Shot 2020-08-09 at 5.41.02 pm.png…]()
-
+https://github.com/lordjuey/noteTaker/blob/master/public/assets/Screen%20Shot%202020-08-09%20at%205.41.02%20pm.png
 
   ## License
   MIT
